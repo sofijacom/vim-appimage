@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/vim/vim-appimage/workflows/Release%20AppImage/badge.svg)](https://github.com/vim/vim-appimage/actions?query=workflow%3A%22Release+AppImage%22)
+[![Build Status](https://github.com/sofijacom/vim-appimage/workflows/Release%20AppImage/badge.svg)](https://github.com/sofijacom/vim-appimage/actions?query=workflow%3A%22Release+AppImage%22)
 
 # Vim AppImage Repository
 
